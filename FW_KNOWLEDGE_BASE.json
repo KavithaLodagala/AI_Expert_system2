@@ -1,0 +1,135 @@
+{
+   "1":{
+      "TREATMENT": ["ANTI ANXIETY DRUG", "PSYCHOEDUCATION"],
+      "SYMPTOMS":{
+         "DISORDER":"SCHIZOPHRENIA",
+         "THOUGHT DISORDER" :"yes"
+      }
+   },
+   "2":{
+       "TREATMENT": ["CLOMIPRAMINE", "FLUOXETINE", "AVERSION THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"OBSESSIVE COMPULSIVE DISORDER",
+          "COMPULSIVE HOARDING" :"yes"
+       }
+   },
+   "3":{
+       "TREATMENT": ["ESCITALOPRAM", "PAROXETINE", "SYSTEMIC DESENSITIZATION"],
+       "SYMPTOMS":{
+          "DISORDER":"KLEPTOMANIA",
+          "URGE TO STEAL" :"yes"
+       }
+   },
+   "4":{
+       "TREATMENT": ["MOOD STABILIZERS", "ANTIPSYCHOTIC DRUGS", "SOCIAL RYTHM THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"BIPOLAR DISORDER",
+          "TALKATIVENESS" :"yes"
+       }
+   },
+   "5":{
+       "TREATMENT": ["ANTIPRESSANTS", "ANTIPSYCHOTICS", "DIALECTICAL BEHAVIOR THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"BORDERLINE PERSONALITY DISORDER",
+          "LOSS OF INTEREST" :"yes"
+       }
+   },
+   "6":{
+       "TREATMENT": ["SEROTONIN", "SNRIs", "INTERPERSONAL PSYCHOTHERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"DYSTHYMIA",
+          "INDECISIVENESS" :"yes"
+       }
+   },
+   "7":{
+       "TREATMENT": ["RAZADYNE", "GALANAMINE", "COGNITIVE BEHAVIOUR THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"DEMENTIA",
+          "MEMORY LOSS" :"yes"
+       }
+   },
+   "8":{
+       "TREATMENT": ["MEMANTINE", "RIVASTIGIMINE", "EXCERCISE", "COGNITION ENHANCING MEDITATION"],
+       "SYMPTOMS":{
+          "DISORDER":"ALZHEIMERS DISEASE",
+          "PERSONALITY CHANGES" :"yes"
+       }
+   },
+   "9":{
+       "TREATMENT": ["TRAZODONE", "LORAZEPEN", "ZOLPIDEIM", "LIGHT THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"INSOMNIA",
+          "LACK OF CONCENTRATION" :"yes"
+       }
+   },
+   "10":{
+       "TREATMENT": ["MODAFINIL", "SODIUM OXYBATE", "BEHAVIOURAL TREATMENT"],
+       "SYMPTOMS":{
+          "DISORDER":"NARCOLEPSY",
+          "CHANGE IN REM SLEEP" :"yes"
+       }
+   },
+   "11":{
+       "TREATMENT": ["TRINTELLIX", "TOFRANIL", "VIVACITY", "ELECTROCONVULSIVE THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"MAJOR DEPRESSIVE DISORDER",
+          "UNEXPLAINABLE BODY ACHES" :"yes"
+       }
+   },
+   "12":{
+       "TREATMENT": ["SERATINE", "AROXENTINE", "EYE MOVEMENT DESENSITIZATION AND REPROCESSING"],
+       "SYMPTOMS":{
+          "DISORDER":"POST TRAUMATIC STRESS DISORDER",
+          "FEAR" :"yes"
+       }
+   },
+   "13":{
+       "TREATMENT": ["FLUOXETINE", "COUNSELLING THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"BULIMIA NERVOSA",
+          "DEHYDRATION" :"yes"
+       }
+   },
+   "14":{
+       "TREATMENT": ["SSRIs", "ANXIOLYTICS", "PSYCHOANALYSIS"],
+       "SYMPTOMS":{
+          "DISORDER":"GENERALIZED ANXIETY DISORDER",
+          "SWEATING" :"yes"
+       }
+   },
+   "15":{
+       "TREATMENT": ["BENZODIAZEPINES", "PAXIL", "EYE MOVEMENT DESENSITIZATION AND REPROCESSING"],
+       "SYMPTOMS":{
+          "DISORDER":"PANIC DISORDER WITH AGORAPHOBIA",
+          "POUNDING HEART RATE" :"yes"
+       }
+   },
+   "16":{
+       "TREATMENT": ["PROZAC", "ZOLOFT", "PSYCHOEDUCATION"],
+       "SYMPTOMS":{
+          "DISORDER":"BODY DISMORPHIC DISORDER",
+          "GENERAL DISCONTENT" :"yes"
+       }
+   },
+   "17":{
+       "TREATMENT": ["HYPNOTHERAPY", "ADJUNCTIVE THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"DISSOCIATIVE IDENTITY DISORDER",
+          "DEREALIZATION" :"yes"
+       }
+   },
+   "18":{
+       "TREATMENT": ["RISPERIDONE", "QUETIAPINE", "FAMILY THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"PSYCHOSIS",
+          "NONSENSE WORD REPETITION" :"yes"
+       }
+   },
+   "19":{
+       "TREATMENT": ["ANTIPSYCHOTIC", "PYSCHOTHERAPY", "SOCIAL RHYTHM THERAPY"],
+       "SYMPTOMS":{
+          "DISORDER":"SCHIZOAFFECTIVE DISORDER",
+          "MANIA" :"yes"
+       }
+   }
+}

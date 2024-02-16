@@ -1,0 +1,82 @@
+{
+   
+   "DISORDER":{
+      "Userinput":""
+   },
+    "THOUGHT DISORDER":{
+       "Question":"Do you have ",
+       "Userinput":""
+    },
+    "COMPULSIVE HOARDING":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "URGE TO STEAL":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "TALKATIVENESS":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "LOSS OF INTEREST":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "INDECISIVENESS":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "MEMORY LOSS":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "PERSONALITY CHANGES":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "LACK OF CONCENTRATION":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "CHANGE IN REM SLEEP":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "UNEXPLAINABLE BODY ACHES":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "FEAR":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "DEHYDRATION":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "SWEATING":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "POUNDING HEART RATE":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "GENERAL DISCONTENT":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "DEREALIZATION":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "NONSENSE WORD REPETITION":{
+        "Question":"Do you have ",
+        "Userinput":""
+     },
+     "MANIA":{
+        "Question":"Do you have ",
+        "Userinput":""
+     }
+}

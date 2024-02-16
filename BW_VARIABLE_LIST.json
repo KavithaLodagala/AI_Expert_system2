@@ -1,0 +1,274 @@
+{
+   "SICK":{
+     "Question":"Are you ",
+      "Userinput":""
+   },
+   "IRRITABILITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "UNFOCUSED":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "RESTLESNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "MOOD SWINGS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SOCIAL ISOLATION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "AGITATION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "IMPULSIVITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "COMPULSIVE BEHAVIOUR":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HYPERVIGILENCE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "RITUALISTIC BEHAVIOUR":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "REPETITIVE BEHAVIOUR":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "BOREDOM":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "DISTORTED SELF IMAGE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "EMPTYNESS":{
+     "Question":"Do you have feeling of ",
+      "Userinput":""
+   },
+   "LOSS OF INTEREST":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SADNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "ANGRY":{
+     "Question":"Are you ",
+      "Userinput":""
+   },
+   "STEALING":{
+     "Question":"Do you have habit of ",
+      "Userinput":""
+   },
+   "STEALING PLEASURE":{
+    "Question":"Do you get ",
+    "Userinput":""
+    },
+   "GUILT":{
+     "Question":"Do you have feeling of ",
+      "Userinput":""
+   },
+   "HYPERACTIVITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "POOR APPETITE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HALLUCINATION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SUICIDAL THOUGHTS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "MENTAL CONFUSION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "PARANOIA":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "MENTAL DISORIENTATION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "MENTAL DECLINE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "LACK OF RESTRAINT":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "NERVOUSNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "JUMBLED SPEECH":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SUSPICIOUS":{
+     "Question":"are you ",
+      "Userinput":""
+   },
+   "SLEEPLESSNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HEADACHE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "LOSS OF MUSCLE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "CATAPLEXY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SLEEP PARALYSIS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SLOW THINKING":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "FATIGUE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "WEIGHT FLUCTUATION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "LACK OF CONFIDENCE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "NIGHTMARES":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "TRAUMA MEMORIES":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "CHEST PAIN":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "DIZZINESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "SWEATING":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "NAUSEA":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HELPLESSNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "FEAR OF BEING ALONE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "BODY THINKING":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "APPEARANCE CHANGE":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "PICKY SKIN":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "BINGE EATING":{
+     "Question":"Do you have habit of ",
+      "Userinput":""
+   },
+   "VOMITING":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "FASTING":{
+     "Question":"Are you ",
+      "Userinput":""
+   },
+   "LAXATIVE USE":{
+     "Question":"Are you doing ",
+      "Userinput":""
+   },
+   "DELUSION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "DISORGANIZED THINKING":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "LACK OF MOTIVATION":{
+     "Question":"Do you have ",
+     "Userinput":""
+   },
+   "AMNESIA":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "INCOHERENT SPEECH":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "EXCITABILITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "IDENTITY CONFUSION":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "BLACKOUT":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HOSTILITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "HOPELESSNESS":{
+     "Question":"Do you have ",
+      "Userinput":""
+   },
+   "GRANDIOSITY":{
+     "Question":"Do you have ",
+      "Userinput":""
+   }
+}

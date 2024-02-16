@@ -1,0 +1,23 @@
+{
+    "ANXIETY":{
+            "SystemOutput":""
+        },
+    "PERSONALITY DISEASE":{
+            "SystemOutput":""
+        },
+    "DEPRESSION":{
+            "SystemOutput":""
+        },
+    "PSYCHOTIC":{
+            "SystemOutput":""
+        },
+    "CHRONIC BRAIN DISEASE":{
+            "SystemOutput":""
+        },
+    "SLEEP DISEASE":{
+            "SystemOutput":""
+        },
+    "EATING DISEASE":{
+            "SystemOutput":""
+        }
+}

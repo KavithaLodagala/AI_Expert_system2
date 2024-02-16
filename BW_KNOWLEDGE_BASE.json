@@ -1,0 +1,253 @@
+{
+   "1":{
+      "CONCLUSION":"NO DISORDER",
+      "SYMPTOMS":{
+         "SICK":"no"
+      }
+   },
+   "2":{
+      "CONCLUSION":"ANXIETY",
+      "SYMPTOMS":{
+         "SICK":"yes",
+         "IRRITABILITY":"yes",
+         "UNFOCUSED":"yes",
+         "RESTLESNESS":"yes"
+      }
+   },
+   "3":{
+      "CONCLUSION":"PERSONALITY DISEASE",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "MOOD SWINGS":"yes",
+         "SOCIAL ISOLATION":"yes"
+      }
+   },
+   "4":{
+      "CONCLUSION":"OBSESSIVE COMPULSIVE DISORDER",
+      "SYMPTOMS":{
+         "PERSONALITY DISEASE":"yes",
+         "AGITATION":"yes",
+         "IMPULSIVITY":"yes",
+         "COMPULSIVE BEHAVIOUR":"yes",
+         "HYPERVIGILENCE":"yes",
+         "RITUALISTIC BEHAVIOUR":"yes",
+         "REPETITIVE BEHAVIOUR":"yes"
+      }
+   },
+   "5":{
+      "CONCLUSION":"BORDERLINE PERSONALITY DISORDER",
+      "SYMPTOMS":{
+         "PERSONALITY DISEASE":"yes",
+         "BOREDOM":"yes",
+         "DISTORTED SELF IMAGE":"yes",
+         "EMPTYNESS":"yes",
+         "LOSS OF INTEREST":"yes"
+      }
+   },
+   "6":{
+      "CONCLUSION":"DEPRESSION",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "SADNESS":"yes",
+         "ANGRY":"yes"
+      }
+   },
+   "7":{
+      "CONCLUSION":"KLEPTOMANIA",
+      "SYMPTOMS":{
+         "DEPRESSION":"yes",
+         "STEALING":"yes",
+         "STEALING PLEASURE":"yes",
+         "GUILT":"yes"
+      }
+   },
+   "8":{
+      "CONCLUSION":"BIPOLAR DISORDER",
+      "SYMPTOMS":{
+         "DEPRESSION":"yes",
+         "HYPERACTIVITY":"yes"
+      }
+   },
+   "9":{
+      "CONCLUSION":"DYSTHYMIA",
+      "SYMPTOMS":{
+         "DEPRESSION":"yes",
+         "POOR APPETITE":"yes"
+      }
+   },
+   "10":{
+      "CONCLUSION":"PSYCHOTIC",
+      "SYMPTOMS":{
+         "DEPRESSION":"yes",
+         "HALLUCINATION":"yes",
+         "SUICIDAL THOUGHTS":"yes"
+      }
+   },
+   "11":{
+      "CONCLUSION":"CHRONIC BRAIN DISEASE",
+      "SYMPTOMS":{
+         "DEPRESSION":"yes",
+         "HALLUCINATION":"yes",
+         "SUICIDAL THOUGHTS":"no",
+         "MENTAL DECLINE":"yes",
+         "LACK OF RESTRAINT":"yes",
+         "NERVOUSNESS":"yes"
+      }
+   },
+   "12":{
+      "CONCLUSION":"DEMENTIA",
+      "SYMPTOMS":{
+         "CHRONIC BRAIN DISEASE":"yes",
+         "JUMBLED SPEECH":"yes"
+      }
+   },
+   "13":{
+      "CONCLUSION":"ALZHEIMERS DISEASE",
+      "SYMPTOMS":{
+         "CHRONIC BRAIN DISEASE":"yes",
+         "SUSPICIOUS":"yes"
+      }
+   },
+   "14":{
+      "CONCLUSION":"SLEEP DISEASE",
+      "SYMPTOMS":{
+         "PSYCHOTIC":"yes",
+         "SLEEPLESSNESS":"yes"
+      }
+   },
+   "15":{
+      "CONCLUSION":"INSOMNIA",
+      "SYMPTOMS":{
+         "SLEEP DISEASE":"yes",
+         "HEADACHE":"yes"
+      }
+   },
+   "16":{
+      "CONCLUSION":"NARCOLEPSY",
+      "SYMPTOMS":{
+         "SLEEP DISEASE":"yes",
+         "HEADACHE":"no",
+         "LOSS OF MUSCLE":"yes",
+         "CATAPLEXY":"yes",
+         "SLEEP PARALYSIS":"yes"
+      }
+   },
+   "17":{
+      "CONCLUSION":"MAJOR DEPRESSIVE DISORDER",
+      "SYMPTOMS":{
+         "SLEEP DISEASE":"yes",
+         "SLOW THINKING":"yes"
+      }
+   },
+   "18":{
+      "CONCLUSION":"SCHIZOPHRENIA",
+      "SYMPTOMS":{
+         "PSYCHOTIC":"yes",
+         "DELUSION":"yes",
+         "DISORGANIZED THINKING":"yes",
+         "LACK OF MOTIVATION":"yes",
+         "AMNESIA":"yes",
+         "INCOHERENT SPEECH":"yes",
+         "EXCITABILITY":"yes"
+      }
+   },
+   "19":{
+      "CONCLUSION":"DISSOCIATIVE IDENTITY DISORDER",
+      "SYMPTOMS":{
+         "PSYCHOTIC":"yes",
+         "DELUSION":"yes",
+         "DISORGANIZED THINKING":"yes",
+         "LACK OF MOTIVATION":"yes",
+         "AMNESIA":"yes",
+         "INCOHERENT SPEECH":"no",
+         "IDENTITY CONFUSION":"yes",
+         "BLACKOUT":"yes"
+      }
+   },
+   "20":{
+      "CONCLUSION":"PSYCHOSIS",
+      "SYMPTOMS":{
+         "PSYCHOTIC":"yes",
+         "DELUSION":"yes",
+         "DISORGANIZED THINKING":"yes",
+         "LACK OF MOTIVATION":"yes",
+         "AMNESIA":"no",
+         "HOPELESSNESS":"no",
+         "HOSTILITY":"yes"
+      }
+   },
+   "21":{
+      "CONCLUSION":"SCHIZOAFFECTIVE DISORDER",
+      "SYMPTOMS":{
+         "PSYCHOTIC":"yes",
+         "DELUSION":"yes",
+         "DISORGANIZED THINKING":"yes",
+         "LACK OF MOTIVATION":"yes",
+         "AMNESIA":"no",
+         "HOPELESSNESS":"yes",
+         "GRANDIOSITY":"yes"
+      }
+   },
+   "22":{
+      "CONCLUSION":"EATING DISEASE",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "FATIGUE":"yes",
+         "WEIGHT FLUCTUATION":"yes",
+         "LACK OF CONFIDENCE":"yes"
+      }
+   },
+   "23":{
+      "CONCLUSION":"POST TRAUMATIC STRESS DISORDER",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "FATIGUE":"no",
+         "NIGHTMARES":"yes",
+         "TRAUMA MEMORIES":"yes"
+      }
+   },
+   "24":{
+      "CONCLUSION":"GENERALIZED ANXIETY DISORDER",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "FATIGUE":"yes",
+         "WEIGHT FLUCTUATION":"no",
+         "CHEST PAIN":"no"
+      }
+   },
+   "25":{
+      "CONCLUSION":"PANIC DISORDER WITH AGORAPHOBIA",
+      "SYMPTOMS":{
+         "ANXIETY":"yes",
+         "FATIGUE":"yes",
+         "WEIGHT FLUCTUATION":"no",
+         "CHEST PAIN":"yes",
+         "DIZZINESS":"yes",
+         "SWEATING":"yes",
+         "NAUSEA":"yes",
+         "HELPLESSNESS":"yes",
+         "FEAR OF BEING ALONE":"yes"
+      }
+   },
+   "26":{
+      "CONCLUSION":"BODY DISMORPHIC DISORDER",
+      "SYMPTOMS":{
+         "EATING DISEASE":"yes",
+         "BODY THINKING":"yes",
+         "APPEARANCE CHANGE":"yes",
+         "PICKY SKIN":"yes"
+      }
+   },
+   "27":{
+      "CONCLUSION":"BULIMIA NERVOSA",
+      "SYMPTOMS":{
+         "EATING DISEASE":"yes",
+         "BODY THINKING":"yes",
+         "APPEARANCE CHANGE":"no",
+         "BINGE EATING":"yes",
+         "VOMITING":"yes",
+         "FASTING":"yes",
+         "LAXATIVE USE":"yes"
+      }
+   }
+}
